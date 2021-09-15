@@ -15,7 +15,7 @@ The Topics are split into different MarkDown files.<br/>
 * [Polymorphism][8]
 ---
 
-[1]: res/read/Class.md
+[1]: res/read/OOP.md
 [2]: res/read/Class.md
 [3]: res/read/Object.md
 [4]: res/read/Method.md

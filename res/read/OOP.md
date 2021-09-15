@@ -75,7 +75,7 @@ It refers to the ability of OOPs programming languages to differentiate between 
 > 1. [*Overloading*][13]
 > 2. [*Overriding*][14]
 
-
+<!--
 * [Access Modifier][1]   ->  Done!
 * [Message Passing][2]   ->  Done! TODO: Queue page
 * [Class][3]
@@ -90,19 +90,19 @@ It refers to the ability of OOPs programming languages to differentiate between 
 * [abstract classes][12]
 * [Overloading][13]
 * [Overriding][14]
+-->
 
-
-[1]: res/read/AccessModifier.md
-[2]: res/read/MethodPassing.md
-[3]: res/read/Class.md
-[4]: res/read/Object.md
-[5]: res/read/Method.md
-[6]: res/read/Abstraction.md
-[7]: res/read/Encapsulation.md
-[8]: res/read/Inheritance.md
-[9]: res/read/Polymorphism.md
-[10]: res/read/This.md
-[11]: res/read/Interface.md
-[12]: res/read/AbstractClass.md
-[13]: res/read/Overloading.md
-[14]: res/read/Overriding.md
+[1]: AccessModifier.md
+[2]: MethodPassing.md
+[3]: Class.md
+[4]: Object.md
+[5]: Method.md
+[6]: Abstraction.md
+[7]: Encapsulation.md
+[8]: Inheritance.md
+[9]: Polymorphism.md
+[10]: This.md
+[11]: Interface.md
+[12]: AbstractClass.md
+[13]: Overloading.md
+[14]: Overriding.md

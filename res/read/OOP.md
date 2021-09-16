@@ -124,8 +124,8 @@ FILE:  OOP.md
 * [Access Modifier][1]   ->  Done!
 * [Message Passing][2]   ->  Done! TODO: Discribe Queue
 * [Class][3]             ->  Done!
-* [Object][4] 
-* [Method][5]
+* [Object][4]            ->  Done!
+* [Method][5]            ->  Done!
 * [Abstraction][6]
 * [Encapsulation][7]
 * [Inheritance][8]

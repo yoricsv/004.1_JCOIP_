@@ -7,8 +7,8 @@ The Topics are split into different MarkDown files.<br/>
 ## CONTENTS:
 * [Object Oriented Programming (OOP)][1]    <!--Done!-->
 * [Class][2]                                <!--Done!-->
-* [Object][3]                               <!--Done!-->
-* [Method][4]                               <!--Done!-->
+* [Object][3]                               <!--Done!--> 
+* [Method][4]
 * [Abstraction][5]
 * [Encapsulation][6]
 * [Inheritance][7]
@@ -72,7 +72,8 @@ FILE:  OOP.md
 [14]: Overriding.md
 --------------------------------------------------------
 FILE:  Class.md
-* [this][1]              ->  Done!
+<!--
+* [this][1]                             ->  Done!
 * [nested classes][2]
 * [anonymous classes][3]
 * [lambda expressions][4]
@@ -83,6 +84,7 @@ FILE:  Class.md
 [4]: LambdaExpression.md
 --------------------------------------------------------
 FILE:  Object.md
+<!--
 * [Serialization/De-Serialization][1]
 * [Garbage Collector][2]
 
@@ -90,17 +92,6 @@ FILE:  Object.md
 [2]: GarbageCollector.md
 --------------------------------------------------------
 FILE:  Method.md
-* [method overloading][1]
-* [strictly passed by value][2]             <-- TODO
-* [Method overloading and Null error][3]    <-- TODO
-* [Overload or override static methods][4]  <-- TODO
-* [Java Quizzes][5]                         <-- TODO
-
-[1]: Overloading.md
-[2]: StrictlyPassed.md.md
-[3]: OverloadingNullError.md
-[4]: OverloadStaticMethod.md
-[5]: Quizzes.md
 --------------------------------------------------------
 FILE:  Abstraction.md
 --------------------------------------------------------

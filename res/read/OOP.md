@@ -75,9 +75,52 @@ It refers to the ability of OOPs programming languages to differentiate between 
 > 1. [*Overloading*][13]
 > 2. [*Overriding*][14]
 
+The example below demonstrate how the class contains 3 methods with the same name but the program will compile and run successfully.
+
+#### Example:
+```java
+public class MathSum
+{
+    public static void main(String... args)
+    {
+        Sum s = new Sum();
+
+        System.out.println(
+                s.sum(-65, -10)                 // Output: -75
+        );
+        System.out.println(
+                s.sum(3.75, -2.35)              // Output: 1.4
+        );
+        System.out.println(
+                s.sum(-54, 19, -5)              // Output: -40
+        );
+    }
+
+    private static class Sum                    // OVERLOADING sum()
+    {
+        public    int sum(int x, int y)         // gets TWO INT parameters
+        {
+            return (x + y);
+        }
+
+        public double sum(double x, double y)   // gets TWO DOUBLE parameters
+        {
+            return (x + y);
+        }
+
+        public    int sum(int x, int y, int z)  // gets THREE INT parameters
+        {
+            return (x + y + z);
+        }
+    }
+}
+
+```
+---
+
 <!--
 * [Access Modifier][1]   ->  Done!
-* [Message Passing][2]   ->  Done! TODO: Queue page
+* [Message Passing][2]   ->  Done! TODO: Discribe Queue
 * [Class][3]
 * [Object][4] 
 * [Method][5]

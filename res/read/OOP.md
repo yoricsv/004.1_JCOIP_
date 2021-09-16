@@ -118,10 +118,12 @@ public class MathSum
 ```
 ---
 
-<!--
+<!--  
+
+FILE:  OOP.md
 * [Access Modifier][1]   ->  Done!
 * [Message Passing][2]   ->  Done! TODO: Discribe Queue
-* [Class][3]
+* [Class][3]             ->  Done!
 * [Object][4] 
 * [Method][5]
 * [Abstraction][6]
